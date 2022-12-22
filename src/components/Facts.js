@@ -6,7 +6,7 @@ import StadiumImg from "../img/stadium-info.png";
 import MainImg  from "../img/main-info.png"
 import BallImg from "../img/ball-background.png"
 
-const LastNews = () => {
+const Facts = () => {
   return (
     <>
       <Navbar />
@@ -83,4 +83,4 @@ const LastNews = () => {
   );
 };
 
-export default LastNews;
+export default Facts;
